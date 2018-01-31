@@ -1,0 +1,8 @@
+body {background-color: #bfa1dd;}
+
+h1, p, div{
+  text-align: center;
+}
+h1, p {
+  color: #3d0860; 
+}
